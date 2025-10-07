@@ -1,4 +1,4 @@
-b# Makefile for compiling and running a single C++ file
+# Makefile for compiling and running a single C++ file
 # Usage: make filename=program.cpp        -> just build
 #        make run filename=program.cpp    -> build and run
 
@@ -23,4 +23,3 @@ run: $(TARGET)
 
 clean:
 	rm -f $(OUTDIR)/*
-
