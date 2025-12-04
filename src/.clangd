@@ -1,0 +1,11 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -Wall
+    - -I"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include"
+    - -I"C:/msys64/mingw64/include"
+    - -I"C:/msys64/mingw64/include-fixed"
+    - -I"C:/msys64/mingw64/include/c++/15.2.0"
+    - -I"C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32"
+    - -I"C:/msys64/mingw64/include/c++/15.2.0/backward"
+  Remove: [-fno-exceptions, -fno-rtti]

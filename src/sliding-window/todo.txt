@@ -1,0 +1,25 @@
+https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/solutions/6027282/java-c-python-two-cases
+
+Length of Longest Subarray With at Most K Frequency
+Find the Longest Equal Subarray
+Count Complete Subarrays in an Array
+Maximum Beauty of an Array After Applying Operation
+Find the Longest Semi-Repetitive Substring
+Maximize Win From Two Segments
+Count the Number of Good Subarrays
+Longest Nice Subarray
+Maximum Number of Robots Within Budget
+Maximize the Confusion of an Exam
+Frequency of the Most Frequent Element
+Longest Subarray of 1's After Deleting One Element
+Constrained Subsequence Sum
+Number of Substrings Containing All Three Characters
+Count Number of Nice Subarrays
+Replace the Substring for Balanced String
+Max Consecutive Ones III
+Binary Subarrays With Sum
+Subarrays with K Different Integers
+Fruit Into Baskets
+Shortest Subarray with Sum at Least K
+Longest Repeating Character Replacement
+Minimum Size Subarray Sum
